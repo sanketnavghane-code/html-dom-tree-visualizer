@@ -739,7 +739,7 @@ export default function Header({ darkMode, setDarkMode }) {
 
     <h2 class="section-title">6. GitHub Repository Details</h2>
     <ul style="margin-top: 8px;">
-      <li><span class="bold">Repository URL:</span> <a class="repo-link" href="https://github.com/sanketnavghane/html-dom-tree-visualizer">https://github.com/sanketnavghane/html-dom-tree-visualizer</a></li>
+      <li><span class="bold">Repository URL:</span> <a class="repo-link" href="https://github.com/sanketnavghane-code/html-dom-tree-visualizer">https://github.com/sanketnavghane-code/html-dom-tree-visualizer</a></li>
       <li><span class="bold">Branch:</span> main</li>
       <li><span class="bold">Version Control:</span> Managed via Git, fully committed with source code, documentation, and configuration files.</li>
     </ul>
